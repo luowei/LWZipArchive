@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.8'
   s.watchos.deployment_target = '2.0'
   s.source_files = 'SSZipArchive/*.{m,h}', 'SSZipArchive/minizip/*.{c,h}'
+  s.exclude_files = 'SSZipArchive/**/*.swift'
   s.public_header_files = 'SSZipArchive/*.h'
   s.libraries = 'z', 'iconv'
   s.framework = 'Security'

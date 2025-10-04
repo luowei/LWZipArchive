@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/ZipArchive/ZipArchive.svg?branch=master)](https://travis-ci.org/ZipArchive/ZipArchive)
 
-[English](./README.md) | [中文版](./README_ZH.md)
+[English](./README.md) | [中文版](./README_ZH.md) | [Swift Version](./README_SWIFT_VERSION.md)
+
+> **Note:** A modern Swift version of this library is now available! See [README_SWIFT_VERSION.md](./README_SWIFT_VERSION.md) for details on using `LWZipArchive_swift` with async/await, Combine, and SwiftUI support.
 
 ## Overview
 
