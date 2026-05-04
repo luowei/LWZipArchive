@@ -1,5 +1,12 @@
 # LWZipArchive
 
+
+## graphify Knowledge Graph
+
+- Interactive graph: https://luowei.github.io/LWZipArchive/
+- Report: https://luowei.github.io/LWZipArchive/GRAPH_REPORT.md
+- Graph data: https://luowei.github.io/LWZipArchive/graph.json
+
 [![Build Status](https://travis-ci.org/ZipArchive/ZipArchive.svg?branch=master)](https://travis-ci.org/ZipArchive/ZipArchive)
 
 [English](./README.md) | [中文版](./README_ZH.md) | [Swift Version](./README_SWIFT_VERSION.md)
